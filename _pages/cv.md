@@ -60,5 +60,5 @@ Service and leadership
 ======
 * SSFRP mentor (2016-present)
 
-
-<br/><img src='/files/DFPorter-CV-2018.pdf'>
+---
+[Or download a comprehensive PDF here.](/files/DFPorter-CV-2018.pdf)
