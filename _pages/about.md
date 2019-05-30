@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is David Porter's Personal Academic Website
-
+David Porter's Academic Webpage
 ======
-I study how the Atmosphere and Ocean drive changes in the Ice Sheets using combination of unique observations and models.
+
+I study how the Atmosphere and Ocean drive changes in the Ice Sheets
+
+I use combination of unique observations and models.
+
+<br/><img src='/images/500x300.png'>
+

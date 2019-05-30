@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Meteorology, Rutgers University, 2006
+* Ph.D in Atmospheric and Oceanic Sciences, Univ. of Colorado at Boulder, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-present: Associate Research Science
+  * LDEO, Columbia Univ.
+  * Aerogeophysics over Ice Sheets
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012 - 2016: Postdoctoral Research Scientist
+  * LDEO, Columbia Univ.
+  * Ice-ocean Interactions using new bathymetry under floating ice from airborne gravity 
+  * Supervisor: Robin Bell and Jim Cochran
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Airborne Geophysics
+  * Gravity team with NASA Operation IceBridge (2018)
+  * Deployed 3 seasons to McMurdo with NSF sponsored ROSETTA-Ice project (2015-2017)
+  * Airborne Science lead with British Antarctic Survey Thwaites aerosurvey (2019)
+* Modeling
+  * WRF, PolarWRF, MAR, etc.
+  * mitGCM, GOTM
+  * Gravity Inversions (GMSYS, python)
+* Programming
+ * Python, R, FORTRAN, NCL, etc.
 
 Publications
 ======
@@ -56,4 +58,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* SSFRP mentor (2016-present)
+
+
+<br/><img src='/files/DFPorter-CV-2018.pdf'>
