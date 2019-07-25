@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Porter / Ice-Ocean Interactions"
+title                    : "David F. Porter"
 title_separator          : "-"
-name                     : &name "David Porter"
+name                     : &name "David F. Porter"
 description              : &description "Research Scientist - LDEO, Columbia Univeristy"
 url                      : https://porterdf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
