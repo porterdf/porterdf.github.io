@@ -1,5 +1,5 @@
 ---
-title: "NYAS Scientist-In-Residence"
+title: "NYAS Scientist-In-Residence, 2019/20"
 collection: teaching
 type: "Middle School Science"
 permalink: /teaching/2019-SIR-NESTM
